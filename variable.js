@@ -1,0 +1,11 @@
+var price = 21;
+var age = 22;
+var temparature = 37;
+var size = 23;
+var tagno = 20;
+var name = "Sodur uddin";
+var address = "vooter goli kochu khet";
+var gf = "alia bhatt";
+var school = "ideal school and college";
+var pass = true;
+var subscribed = false;
